@@ -1,0 +1,9 @@
+# coverage
+coverage/
+
+# output files
+dist/
+
+# temp files
+.temp/
+.cache/
